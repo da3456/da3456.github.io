@@ -2,4 +2,4 @@
 线性神经网络  
 从零实现  
 [动手深度学习习题解答](https://datawhalechina.github.io/d2l-ai-solutions-manual/#/ch03/ch03)  
-[second](https://da3456.github.io/second)
+[second](https://da3456.github.io/second)  
